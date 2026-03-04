@@ -12,3 +12,4 @@ C:\Users\prige\OneDrive\Área de Trabalho\projetocurso\minhasolucao\obj\Debug\ne
 C:\Users\prige\OneDrive\Área de Trabalho\projetocurso\minhasolucao\obj\Debug\net8.0\minhasolucao.pdb
 C:\Users\prige\OneDrive\Área de Trabalho\projetocurso\minhasolucao\obj\Debug\net8.0\minhasolucao.genruntimeconfig.cache
 C:\Users\prige\OneDrive\Área de Trabalho\projetocurso\minhasolucao\obj\Debug\net8.0\ref\minhasolucao.dll
+C:\Users\prige\OneDrive\Área de Trabalho\projetocurso\minhasolucao\obj\Debug\net8.0\minhasolucao.sourcelink.json
