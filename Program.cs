@@ -5,6 +5,13 @@ Console.WriteLine("Qual é o seu nome?");
 
 string name = Console.ReadLine();
 
+while (string.IsNullOrWhiteSpace (name))
+
+{
+Console.WriteLine("Você digitou um valor inválido, favor digite novamente");
+ name = Console.ReadLine();  
+}
+
 Console.WriteLine("Seja bem vindo: " +name);
 Console.WriteLine("Qual a sua idade?");
 int idade;
