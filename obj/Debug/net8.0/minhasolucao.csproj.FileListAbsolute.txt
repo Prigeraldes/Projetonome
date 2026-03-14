@@ -28,3 +28,18 @@ C:/Users/prige/OneDrive/Área de Trabalho/projetocurso/minhasolucao/obj/Debug/ne
 /home/renato/repos/Projetonome/obj/Debug/net8.0/minhasolucao.pdb
 /home/renato/repos/Projetonome/obj/Debug/net8.0/minhasolucao.genruntimeconfig.cache
 /home/renato/repos/Projetonome/obj/Debug/net8.0/ref/minhasolucao.dll
+C:\Users\prige\OneDrive\Área de Trabalho\projetocurso\minhasolucao\obj\Debug\net8.0\minhasolucao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prige\OneDrive\Área de Trabalho\projetocurso\minhasolucao\obj\Debug\net8.0\minhasolucao.AssemblyInfoInputs.cache
+C:\Users\prige\OneDrive\Área de Trabalho\projetocurso\minhasolucao\obj\Debug\net8.0\minhasolucao.AssemblyInfo.cs
+C:\Users\prige\OneDrive\Área de Trabalho\projetocurso\minhasolucao\obj\Debug\net8.0\minhasolucao.csproj.CoreCompileInputs.cache
+C:\Users\prige\OneDrive\Área de Trabalho\projetocurso\minhasolucao\obj\Debug\net8.0\minhasolucao.sourcelink.json
+C:\Users\prige\OneDrive\Área de Trabalho\projetocurso\minhasolucao\obj\Debug\net8.0\minhasolucao.dll
+C:\Users\prige\OneDrive\Área de Trabalho\projetocurso\minhasolucao\obj\Debug\net8.0\refint\minhasolucao.dll
+C:\Users\prige\OneDrive\Área de Trabalho\projetocurso\minhasolucao\obj\Debug\net8.0\minhasolucao.pdb
+C:\Users\prige\OneDrive\Área de Trabalho\projetocurso\minhasolucao\bin\Debug\net8.0\minhasolucao.exe
+C:\Users\prige\OneDrive\Área de Trabalho\projetocurso\minhasolucao\bin\Debug\net8.0\minhasolucao.deps.json
+C:\Users\prige\OneDrive\Área de Trabalho\projetocurso\minhasolucao\bin\Debug\net8.0\minhasolucao.runtimeconfig.json
+C:\Users\prige\OneDrive\Área de Trabalho\projetocurso\minhasolucao\bin\Debug\net8.0\minhasolucao.dll
+C:\Users\prige\OneDrive\Área de Trabalho\projetocurso\minhasolucao\bin\Debug\net8.0\minhasolucao.pdb
+C:\Users\prige\OneDrive\Área de Trabalho\projetocurso\minhasolucao\obj\Debug\net8.0\minhasolucao.genruntimeconfig.cache
+C:\Users\prige\OneDrive\Área de Trabalho\projetocurso\minhasolucao\obj\Debug\net8.0\ref\minhasolucao.dll
